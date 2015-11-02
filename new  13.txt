@@ -1,0 +1,10 @@
+Request Method: POST
+
+Sandbox URL: https://apitest.authorize.net/xml/v1/request.api
+
+Production URL: https://api.authorize.net/xml/v1/request.api
+
+
+XML Content-Type: text/xml
+
+JSON Content-Type: application/json

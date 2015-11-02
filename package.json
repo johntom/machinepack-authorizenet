@@ -1,0 +1,33 @@
+{
+  "name": "machinepack-authorizenet",
+  "version": "1.0.1",
+  "description": "a machinepack for node-authorize-net",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Authorizenet",
+    "machines",
+    "machinepack"
+  ],
+  "author": "johntom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johntom/machinepack-authorizenet.git"
+  },
+  "dependencies": {
+    "machine": "^10.0.0",
+      "node-authorize-net": "^0.0.5"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^2.0.0"
+  },
+  "machinepack": {
+    "friendlyName": "Authorizenet",
+    "machineDir": "machines/",
+    "machines": [
+      "create-transaction-request"
+    ]
+  }
+}
