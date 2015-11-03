@@ -6,10 +6,12 @@
 
 ### [Docs](http://node-machine.org/machinepack-authorizenet) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
 
-a machinepack for node-authorize-net
+a machinepack for authorize-net (node-authorize-net retired)
 
 
 ## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-authorizenet.svg)](http://badge.fury.io/js/machinepack-authorizenet) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-authorizenet.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-authorizenet)
+
+## This uses latest version authorize-net 1.0.6 . There is a repo for node-authorize-net that is old and should be avoided.
 
 ```sh
 $ npm install machinepack-authorizenet
@@ -28,4 +30,3 @@ Learn more at <a href="http://node-machine.org/implementing/FAQ" title="Machine 
 ## License
 
 MIT &copy; 2015 contributors
-
