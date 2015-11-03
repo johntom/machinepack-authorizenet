@@ -11,6 +11,8 @@
     "machinepack"
   ],
   "author": "johntom",
+  "contributors": [
+   "John Tomaselli"],
   "license": "MIT",
   "repository": {
     "type": "git",
