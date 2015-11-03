@@ -1,6 +1,6 @@
 {
   "name": "machinepack-authorizenet",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "a machinepack for node-authorize-net version 1.0.6 (nov 2 2015)",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "machine": "^10.0.0",
-      "node-authorize-net": "^1.0.6"
+    "node-authorize-net": "^1.0.6"
   },
   "devDependencies": {
     "test-machinepack-mocha": "^2.0.0"
