@@ -1,7 +1,7 @@
 module.exports = {
   friendlyName: 'Create transaction request',
   description: 'pass credentials to authorize.net to setup a payment transaction',
-  extendedDescription: 'nodejs version 1.0.6 from https://www.npmjs.com/package/authorize-net ',
+  extendedDescription: 'nodejs version 1.0.6 from https://www.npmjs.com/package/authorize-net. run npm install -s authorize-net@1.0.6  ',
   cacheable: false,
   sync: false,
   idempotent: false,
