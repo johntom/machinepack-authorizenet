@@ -12,7 +12,8 @@
   ],
   "author": "johntom",
   "contributors": [
-   "John Tomaselli"],
+    "John Tomaselli"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -29,7 +30,8 @@
     "friendlyName": "Authorizenet",
     "machineDir": "machines/",
     "machines": [
-      "create-transaction-request"
+      "create-transaction-request",
+      "authorize-transaction-request"
     ]
   }
 }
